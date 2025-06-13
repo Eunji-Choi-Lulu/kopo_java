@@ -1,0 +1,15 @@
+
+a {
+    display: inline-block;
+    padding: 30px 50px;
+    margin: 10px;
+    background: skyblue; 
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold; 
+}
+
+a:hover, a:visited {
+    color: white; 
+}
